@@ -1,4 +1,4 @@
-// Define your quiz questions and answers
+// questions and answers
 const questions = [
     {
         question: "What is the capital of France?",
