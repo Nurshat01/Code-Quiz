@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript Quiz</title>
+    <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+<div id="start-screen">
+    <h1>JavaScript Quiz</h1>
+    <button id="start-button">Start Quiz</button>
+</div>
+<div id="quiz-container">
+    <h2 id="question-text"></h2>
+    <ul id="answers"></ul>
+    <div id="timer">Time: <span id="time-remaining">60</span> seconds</div>
+</div>
+<div id="game-over-screen">
+    <h1>Game Over</h1>
+    <p>Your score: <span id="score">0</span></p>
+    <input type="text" id="initials" placeholder="Enter your initials">
+    <button id="submit-score">Submit</button>
+</div>
+<script src="./assets/quiz.js"></script>
+</body>
+</html>
