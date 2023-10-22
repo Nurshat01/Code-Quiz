@@ -3,9 +3,6 @@
 JavaScript Quiz is a simple interactive quiz application built using HTML, CSS, and JavaScript.
 Users can answer a series of multiple-choice questions within a time limit and then submit their scores.
 High scores are saved to local storage for future reference.
-## Features
-
-This password generator is a UI tool designed to help you generate strong and secure passwords. It allows you to customize the length of the password and select which character types to include (lowercase letters, uppercase letters, numbers, and special characters).
 
 ## Features
 
